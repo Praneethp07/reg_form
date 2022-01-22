@@ -36,7 +36,6 @@ html,.background{
     align-items: center;
     margin: auto;
     padding-left: 20%;
-    /* border: 1px solid black; */
     padding: 3%;
     
 }
@@ -64,14 +63,14 @@ h1{
     font-family: "Audiowide", sans-serif;
 }
 .alert{
-    width: 100%;
-    background: rgb(7, 207, 91);
-    padding: 10%;
-    border-radius: 15px;
-    text-align: center;
-    font-size: 18px;
-    font-weight: 900;
-    display: none;
+    width:fill-content;
+    text-align:center;
+    border:1px solid black;
+    padding:2%;
+    border-radius:20px;
+    background-color:rgb(16, 194, 16);
+    font-size:18px;
+    display:none;
 }
 
 

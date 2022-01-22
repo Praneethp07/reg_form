@@ -64,7 +64,7 @@ const firebaseConfig = {
         image:image
     });
   };
-  mybutton = document.getElementById("mybtn");
+  mybutton = document.getElementById("mygbtn");
 
   // When the user scrolls down 20px from the top of the document, show the button
   window.onscroll = function() {scrollFunction()};
